@@ -1,13 +1,24 @@
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# Junaid Hussnain
 
-# 💫 About Me:
-🔭 A Senior Software Engineer with a passion for crafting innovative solutions and a knack for turning complex problems into elegant code. I’ve had the pleasure of working on a wide array of projects that push the boundaries of technology and make a real impact.<br>👯 From debugging in the trenches to designing scalable architectures, I live and breathe technology.<br>🤝 I thrive in collaborative environments and love mentoring others to help them grow and shine.<br>⚡ Whether it’s optimizing performance or creating a new feature, I’m always up for a challenge.
+Software engineer in Lahore, Pakistan. I build backend products, operational
+tools, and the interfaces that make complicated systems easier to run.
 
+[Portfolio](https://hijunaid.com) · [Engineering notes](https://hijunaid.com/blog) · [LinkedIn](https://www.linkedin.com/in/junaid-hussnain-a951791bb/) · [Email](mailto:junaidhussnain369@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Junaid-PK&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Junaid-PK&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Junaid-PK&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+## Selected public work
 
----
-[![](https://visitcount.itsvg.in/api?id=Junaid-PK&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | What it solves | Engineering focus |
+| --- | --- | --- |
+| [Stackline](https://github.com/Junaid-PK/stackline) | Builds ATS-friendly resumes without sending career data to a server | Local-first React architecture, explainable scoring, tested export logic |
+| [E-Manager](https://github.com/Junaid-PK/e_manager) | Brings invoices, banking, expenses, projects, and workforce operations into one model | Laravel, Livewire, authorization boundaries, signed exports, feature tests |
+| [Laravel Development Workflow](https://github.com/Junaid-PK/laravel-development-workflow) | Turns feature requests and bug reports into repeatable, verifiable delivery steps | Acceptance criteria, regression-first testing, realistic boundary states |
+
+## How I approach engineering
+
+- Model the real workflow: users, permissions, failure states, and the decisions a system must preserve.
+- Make operations visible: imports, queues, reporting, observability, and deployment are part of the product.
+- Reduce the cost of the next change with narrow contracts, readable tests, and maintainable infrastructure.
+
+I work primarily with **PHP / Laravel, TypeScript, Python, PostgreSQL, Redis,
+Docker, and GitHub Actions**. Current focus: shipping Stackline and publishing
+practical notes from the decisions behind the work.
