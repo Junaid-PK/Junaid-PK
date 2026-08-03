@@ -16,9 +16,10 @@ tools, and the interfaces that make complicated systems easier to run.
 ## Current open-source work
 
 - **Merged:** [Verdict — evaluation CLI](https://github.com/fissible/verdict/pull/6), adding validated evaluation baselines, regression reporting, stable CI exit codes, and redacted GitHub Actions annotations.
+- **In review:** [Verdict — redacted provenance ledger](https://github.com/fissible/verdict/pull/7), tracking explicitly labeled user, retrieval, tool, and application inputs through canonical fingerprints without retaining their raw content.
 - **In review:** [Meilisearch PHP — Dynamic Search Rules backport](https://github.com/meilisearch/meilisearch-php/pull/942), bringing the Meilisearch 1.50 API to `v1.x` while preserving PHP 7.4 support, typed contracts, and the branch's task conventions.
 
-Verdict was merged after its complete PHP, Laravel, Linux, and Windows test matrix passed. The Meilisearch contribution remains an open, mergeable upstream pull request awaiting maintainer review.
+The evaluation CLI was merged after its complete PHP, Laravel, Linux, and Windows test matrix passed. The provenance ledger and Meilisearch backport are open, mergeable upstream pull requests under CI or maintainer review.
 
 ## Latest engineering notes
 
