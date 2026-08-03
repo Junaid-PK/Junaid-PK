@@ -20,9 +20,10 @@ tools, and the interfaces that make complicated systems easier to run.
 
 Verdict was merged after its complete PHP, Laravel, Linux, and Windows test matrix passed. The Meilisearch contribution remains an open, mergeable upstream pull request awaiting maintainer review.
 
-## Latest engineering note
+## Latest engineering notes
 
-[Backporting Meilisearch Dynamic Search Rules Without Dropping PHP 7.4](https://hijunaid.com/blog/backporting-meilisearch-dynamic-search-rules-to-php-74) — a field note on translating a modern feature into an older branch without importing unrelated architecture or weakening verification.
+- [Designing CI-Safe Evaluation Baselines for Laravel AI Agents](https://hijunaid.com/blog/designing-ci-safe-evaluation-baselines-for-laravel-ai-agents) — the threat model, atomic persistence, failure taxonomy, and CI protocol behind the merged Verdict contribution.
+- [Backporting Meilisearch Dynamic Search Rules Without Dropping PHP 7.4](https://hijunaid.com/blog/backporting-meilisearch-dynamic-search-rules-to-php-74) — translating a modern feature into an older branch without importing unrelated architecture or weakening verification.
 
 ## How I approach engineering
 
