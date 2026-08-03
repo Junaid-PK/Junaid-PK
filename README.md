@@ -19,7 +19,7 @@ tools, and the interfaces that make complicated systems easier to run.
 - **In review:** [Verdict — redacted provenance ledger](https://github.com/fissible/verdict/pull/7), tracking explicitly labeled user, retrieval, tool, and application inputs through canonical fingerprints without retaining their raw content.
 - **In review:** [Meilisearch PHP — Dynamic Search Rules backport](https://github.com/meilisearch/meilisearch-php/pull/942), bringing the Meilisearch 1.50 API to `v1.x` while preserving PHP 7.4 support, typed contracts, and the branch's task conventions.
 
-The evaluation CLI was merged after its complete PHP, Laravel, Linux, and Windows test matrix passed. The provenance ledger and Meilisearch backport are open, mergeable upstream pull requests under CI or maintainer review.
+Both Verdict contributions passed the complete PHP, Laravel, Linux, and Windows matrix plus a clean Laravel consumer install; the evaluation CLI is merged and the provenance ledger awaits maintainer review. The Meilisearch backport is also open and mergeable, with upstream CI awaiting maintainer approval.
 
 ## Latest engineering notes
 
