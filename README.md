@@ -23,6 +23,7 @@ Both Verdict contributions passed the complete PHP, Laravel, Linux, and Windows 
 
 ## Latest engineering notes
 
+- [Designing a Redacted Provenance Ledger for Laravel AI Agents](https://hijunaid.com/blog/designing-a-redacted-provenance-ledger-for-laravel-ai-agents) — explicit trust labels, canonical fingerprints, recorder boundaries, additive evidence storage, and the limits of deterministic hashes.
 - [Designing CI-Safe Evaluation Baselines for Laravel AI Agents](https://hijunaid.com/blog/designing-ci-safe-evaluation-baselines-for-laravel-ai-agents) — the threat model, atomic persistence, failure taxonomy, and CI protocol behind the merged Verdict contribution.
 - [Backporting Meilisearch Dynamic Search Rules Without Dropping PHP 7.4](https://hijunaid.com/blog/backporting-meilisearch-dynamic-search-rules-to-php-74) — translating a modern feature into an older branch without importing unrelated architecture or weakening verification.
 
