@@ -15,10 +15,10 @@ tools, and the interfaces that make complicated systems easier to run.
 
 ## Current open-source work
 
-- [Meilisearch PHP — Dynamic Search Rules backport](https://github.com/meilisearch/meilisearch-php/pull/942): bringing the Meilisearch 1.50 API to `v1.x` while preserving PHP 7.4 support, typed contracts, and the branch's task conventions.
-- [Verdict — evaluation CLI](https://github.com/fissible/verdict/pull/6): adding validated evaluation baselines, regression reporting, stable CI exit codes, and redacted GitHub Actions annotations.
+- **Merged:** [Verdict — evaluation CLI](https://github.com/fissible/verdict/pull/6), adding validated evaluation baselines, regression reporting, stable CI exit codes, and redacted GitHub Actions annotations.
+- **In review:** [Meilisearch PHP — Dynamic Search Rules backport](https://github.com/meilisearch/meilisearch-php/pull/942), bringing the Meilisearch 1.50 API to `v1.x` while preserving PHP 7.4 support, typed contracts, and the branch's task conventions.
 
-Both contributions are open upstream pull requests. Their status and review history are visible at the links above.
+Verdict was merged after its complete PHP, Laravel, Linux, and Windows test matrix passed. The Meilisearch contribution remains an open, mergeable upstream pull request awaiting maintainer review.
 
 ## Latest engineering note
 
