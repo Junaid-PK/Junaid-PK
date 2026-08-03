@@ -18,9 +18,10 @@ tools, and the interfaces that make complicated systems easier to run.
 
 - **Merged:** [Verdict — evaluation CLI](https://github.com/fissible/verdict/pull/6), adding validated evaluation baselines, regression reporting, stable CI exit codes, and redacted GitHub Actions annotations.
 - **In review:** [Verdict — redacted provenance ledger](https://github.com/fissible/verdict/pull/7), tracking explicitly labeled user, retrieval, tool, and application inputs through canonical fingerprints without retaining their raw content.
+- **In review:** [Rector — safe constructor default inlining](https://github.com/rectorphp/rector-src/pull/8281), preventing property initialization from changing when a child class bypasses its parent constructor.
 - **In review:** [Meilisearch PHP — Dynamic Search Rules backport](https://github.com/meilisearch/meilisearch-php/pull/942), bringing the Meilisearch 1.50 API to `v1.x` while preserving PHP 7.4 support, typed contracts, and the branch's task conventions.
 
-Both Verdict contributions passed the complete PHP, Laravel, Linux, and Windows matrix plus a clean Laravel consumer install; the evaluation CLI is merged and the provenance ledger awaits maintainer review. The Meilisearch backport is also open and mergeable, with upstream CI awaiting maintainer approval.
+Both Verdict contributions passed the complete PHP, Laravel, Linux, and Windows matrix plus a clean Laravel consumer install; the evaluation CLI is merged and the provenance ledger awaits maintainer review. The Rector fix is open and mergeable with all 62 executed upstream checks passing across Linux, Windows, PHP 8.4, and PHP 8.5. The Meilisearch backport is also open and mergeable, with upstream CI awaiting maintainer approval.
 
 ## Latest engineering notes
 
