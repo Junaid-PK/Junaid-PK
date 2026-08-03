@@ -9,6 +9,7 @@ tools, and the interfaces that make complicated systems easier to run.
 
 | Project | What it solves | Engineering focus |
 | --- | --- | --- |
+| [hijunaid.com](https://github.com/Junaid-PK/me) | Makes private product experience, public code, writing, and upstream work discoverable in one evidence-led portfolio | Vue static generation, entity SEO, RSS/IndexNow, hardened automated VPS delivery |
 | [Stackline](https://github.com/Junaid-PK/stackline) | Builds ATS-friendly resumes without sending career data to a server | Local-first React architecture, explainable scoring, tested export logic |
 | [E-Manager](https://github.com/Junaid-PK/e_manager) | Brings invoices, banking, expenses, projects, and workforce operations into one model | Laravel, Livewire, authorization boundaries, signed exports, feature tests |
 | [Laravel Development Workflow](https://github.com/Junaid-PK/laravel-development-workflow) | Turns feature requests and bug reports into repeatable, verifiable delivery steps | Acceptance criteria, regression-first testing, realistic boundary states |
