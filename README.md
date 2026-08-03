@@ -13,6 +13,17 @@ tools, and the interfaces that make complicated systems easier to run.
 | [E-Manager](https://github.com/Junaid-PK/e_manager) | Brings invoices, banking, expenses, projects, and workforce operations into one model | Laravel, Livewire, authorization boundaries, signed exports, feature tests |
 | [Laravel Development Workflow](https://github.com/Junaid-PK/laravel-development-workflow) | Turns feature requests and bug reports into repeatable, verifiable delivery steps | Acceptance criteria, regression-first testing, realistic boundary states |
 
+## Current open-source work
+
+- [Meilisearch PHP — Dynamic Search Rules backport](https://github.com/meilisearch/meilisearch-php/pull/942): bringing the Meilisearch 1.50 API to `v1.x` while preserving PHP 7.4 support, typed contracts, and the branch's task conventions.
+- [Verdict — evaluation CLI](https://github.com/fissible/verdict/pull/6): adding validated evaluation baselines, regression reporting, stable CI exit codes, and redacted GitHub Actions annotations.
+
+Both contributions are open upstream pull requests. Their status and review history are visible at the links above.
+
+## Latest engineering note
+
+[Backporting Meilisearch Dynamic Search Rules Without Dropping PHP 7.4](https://hijunaid.com/blog/backporting-meilisearch-dynamic-search-rules-to-php-74) — a field note on translating a modern feature into an older branch without importing unrelated architecture or weakening verification.
+
 ## How I approach engineering
 
 - Model the real workflow: users, permissions, failure states, and the decisions a system must preserve.
@@ -21,4 +32,4 @@ tools, and the interfaces that make complicated systems easier to run.
 
 I work primarily with **PHP / Laravel, TypeScript, Python, PostgreSQL, Redis,
 Docker, and GitHub Actions**. Current focus: shipping Stackline and publishing
-practical notes from the decisions behind the work.
+practical notes from open-source and product engineering work.
