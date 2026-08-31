@@ -6,8 +6,8 @@ I work mainly with Laravel/PHP, TypeScript, Python, PostgreSQL, Docker, and GitH
 
 ## Selected work
 
-- [Stackline](https://github.com/Junaid-PK/Stackline) — A private, browser-based resume builder for creating ATS-friendly resumes.
-- [E-Manager](https://github.com/Junaid-PK/e-manager) — A business operations platform for invoices, expenses, projects, banking, and workforce management.
+- [Frontend Design Skill](https://github.com/Junaid-PK/frontend-design-skill) — A task-focused agent skill for clear, restrained, production-ready SaaS UI design.
+- [Laravel Development Workflow](https://github.com/Junaid-PK/laravel-development-workflow) — A test-driven workflow for Laravel feature development and bug fixing.
 - [Verdict Evaluation CLI](https://github.com/fissible/verdict/pull/6) — A merged open-source contribution for comparing security evaluation results safely in CI.
 
 ## Find me
